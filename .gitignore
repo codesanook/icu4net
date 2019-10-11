@@ -39,3 +39,4 @@ packages/
 ipch
 NugetPackages/*.nupkg
 !.nuget/NuGet.exe
+.vs/*
