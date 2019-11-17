@@ -71,6 +71,9 @@ Features:
  
 ![screenshot](http://lh5.ggpht.com/_5XDoB4MglkY/S4_6QN_lq3I/AAAAAAAAFk0/LsUGhSGloIw/s800/WordBreak.png)
 
+### Get DLL from 
+https://sourceforge.net/projects/icu/files/ICU4C/51.2/
+
 ## License
 Copyright (c) 2010 Natthawut Kulnirundorn
 
